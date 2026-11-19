@@ -1,0 +1,106 @@
+body {
+    background-color:#ffffff;
+    font-family: Arial, sans-serif;
+    margin: 0px;
+    padding: 20px;
+}
+.caixa-login {
+    background-color: rgb(35, 75, 23);
+    max-width: 300px;
+    margin: 0px auto;
+    padding: 25px;
+    border-radius: 10px;
+}
+.diva img {
+    display: inline-flex;
+    width: 930px;
+    height: 410px;
+    
+
+} 
+
+
+
+
+.produtos{
+    border: 16px solid rgb(7, 88, 38);
+        background-color:rgb(227, 238, 229);
+        max-width: 100%;
+        max-width: 200px;
+        justify-content: center;
+        margin: 20px auto;
+        padding: 40px;
+        border-radius: 500px;
+        align-items: center;
+            display: block;
+
+
+    margin:0 auto;
+    max-width: 100%;
+    display: flex;
+    flex: wrap;
+    gap: 15px;
+}
+
+
+
+img {
+    width: 250px;
+    height: 250px;
+    
+    
+    
+}
+
+
+h1 {
+    color: #1f5f22;
+    text-align: left;
+}
+
+
+h2 {
+    color: #1f5f22;
+    text-align: center;
+}
+
+
+h3 {
+    color: #1f5f22;
+    text-align: center;
+}
+p {
+    color: #114e16;
+    text-align: center;
+}
+label {
+    display: block;
+    margin-top: 15px;
+}
+
+
+
+
+
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #1f5f22;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+button {
+    background-color: #1f5f22;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #bfd1c0;
+}
